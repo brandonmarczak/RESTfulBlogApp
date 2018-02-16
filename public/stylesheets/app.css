@@ -1,0 +1,15 @@
+i.icon {
+    font-size: 2em;
+}
+
+i.icon.class.unhide icon {
+    margin-left: 2px;
+}
+
+.container.main {
+    margin-top: 7.0em;
+}
+
+#delete {
+    display: inline;
+}
